@@ -1,0 +1,22 @@
+# Character Images Directory
+
+This directory contains Halloween character images for the personality test results.
+
+## Image Naming Convention
+
+All character images should follow this naming convention:
+- zombie.png - 좀비 (Zombie) - ESTJ/ESTP
+- joker.png - 조커 (Joker) - ENTJ/ENTP
+- skeleton.png - 해골 (Skeleton) - INFJ/INFP
+- nun.png - 수녀 (Nun) - ISFJ/ISFP
+- jack-o-lantern.png - 잭오랜턴 (Jack-o'-lantern) - ENFJ/ENFP
+- vampire.png - 뱀파이어 (Vampire) - ISTJ/ISTP
+- ghost.png - 유령 (Ghost) - ESFJ/ESFP
+- frankenstein.png - 프랑켄슈타인 (Frankenstein) - INTJ/INTP
+
+## Image Requirements
+
+- Format: PNG with transparency
+- Recommended size: 512x512px or larger
+- Style: Halloween-themed, spooky but friendly
+- Background: Transparent or dark to match the Halloween theme

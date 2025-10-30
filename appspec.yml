@@ -1,0 +1,11 @@
+version: 0.0
+os: linux
+hooks:
+  AfterInstall:
+    - location: codedeploy_scripts/stop_and_remove_old_container.sh
+      timeout: 300
+      runas: root
+  ApplicationStart:
+    - location: codedeploy_scripts/start_new_container.sh
+      timeout: 300
+      runas: root

@@ -1,0 +1,74 @@
+{
+  "zombie": {
+    "name": "좀비",
+    "description": "좀비 세계에도 나름 체계가 있어서 주로 대장 역할을 하는 좀비의 지시를 따르는 것이이 특징이죠. 밖으로 돌아다니는 것을 좋아하고, 다른 사람들을 이끄는 데 탁월한 능력을 지닌 당신은 \"본 투 비 리더\", 대장 좀비입니다.",
+    "imagePath": "/assets/characters/zombie.png",
+    "mbtiTypes": [
+      "ESTJ",
+      "ESTP"
+    ]
+  },
+  "joker": {
+    "name": "조커",
+    "description": "당신은 조용하지만 전략적인 조커입니다. 포커페이스 미소소 뒤에 모든 것을 관찰하고 분석하는 철저한 전략가죠. 질서정연한 혼돈, 논리적인 광기라는 모순의 화신이지만, 이 모든 걸 가능케하는 완벽한 적응력과 규격을 벗어난 논리를 지닌 이 사회의 체스플레이어입니다.",
+    "imagePath": "/assets/characters/joker.png",
+    "mbtiTypes": [
+      "ISTJ",
+      "ISTP"
+    ]
+  },
+  "skeleton": {
+    "name": "해골",
+    "description": "당신은 차가워보여도 제일 정 많은 해골입니다. 뼈만 남아도 음악만 들리면 덜그럭거리며 춤추는 당신은 뼈다귀 하나도 나눠쓰는 모두의 친구이자, 우리 모두 결국 해골임을 알고 모두를 포용하는 평등주의자 입니다. 유머도 뛰어나죠! \"왜 해골이 거짓말을 못하는 줄 알아? 속이 다 보여서!\"",
+    "imagePath": "/assets/characters/skeleton.png",
+    "mbtiTypes": [
+      "ESFJ",
+      "ESFP"
+    ]
+  },
+  "nun": {
+    "name": "수녀",
+    "description": "당신은 헌신적이고 따뜻한 수녀입니다. 말보다 행동으로 신념을 실천하고, 그 따뜻한 존재만으로도 안식을 주는 당신은 스스로를 낮추고 타인을 섬기는 것에서 기쁨을 찾는 이 사회에 가장 필요한 고요한 봉사자입니다.",
+    "imagePath": "/assets/characters/nun.png",
+    "mbtiTypes": [
+      "ISFJ",
+      "ISFP"
+    ]
+  },
+  "jack-o-lantern": {
+    "name": "잭오랜턴",
+    "description": "당신은 열정적이고 사교적인 잭오랜턴입니다. 사람과 사람을 잇고, 할로윈의 설렘과 즐거임을 배가 시켜주는 분위기 메이커 같은 존재죠. 따뜻한 에너지와 멀리서도 눈에 띄는 밝은 존재감으로로 어둠 속에서도 빛을 전파하는 긍정의 아이콘 입니다.",
+    "imagePath": "/assets/characters/jack-o-lantern.png",
+    "mbtiTypes": [
+      "ENFJ",
+      "ENFP"
+    ]
+  },
+  "vampire": {
+    "name": "뱀파이어",
+    "description": "당신은 수백 년간 뱀파이어 일족을 통치하는 절대 권력자입니다. 뱀파이어는 고딕 성의 왕좌에서 체스를 두듯 세상을 움직이는 전략가로, 타고난 설득력과 수단과 방법을 가리지 않는 실용주의를 갖춰 거부할 수 없는 매력을 지닌 밤의 지배자입니다.",
+    "imagePath": "/assets/characters/vampire.png",
+    "mbtiTypes": [
+      "ENTJ",
+      "ENTP"
+    ]
+  },
+  "ghost": {
+    "name": "유령",
+    "description": "유령은 파티 한 구석에서 은은하게 떠다니며 모든 걸 지켜보는 존재죠. 당신을 볼 수 있는 소수의 특별한 사람들에게만 진짜 모습을 드러내는 당신은 현실에 존재하지 않지만 존재하며 그 사이를 자유롭게 오가는 몽환적 기질을 가졌습니다.",
+    "imagePath": "/assets/characters/ghost.png",
+    "mbtiTypes": [
+      "INFJ",
+      "INFP"
+    ]
+  },
+  "frankenstein": {
+    "name": "프랑켄슈타인",
+    "description": "당신은 독창적이고 지적인 프랑켄슈타인입니다. 혼자 실험실에 틀어박혀 연구하는 것을 좋아하는 프랑켄슈타인처럼 당신은 복잡한 문제를 해결하는 것을 즐기며, 논리적이고 분석적인 사고를 합니다. 독립적이고 자신만의 세계관에 살며며 혁신적인 아이디어로 가득한 성격입니다.",
+    "imagePath": "/assets/characters/frankenstein.png",
+    "mbtiTypes": [
+      "INTJ",
+      "INTP"
+    ]
+  }
+}
