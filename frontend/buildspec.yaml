@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    S3_BUCKET: "halloween-personality-test-frontend-bucket-zzawook"
+    S3_BUCKET: "halloween-personality-test-frontend-bucket-yunko-yunko"
 
 phases:
   install:
